@@ -51,7 +51,7 @@ int main() {
         printf("%d\n", output_accel[i]);
     }
 
-    printf("\nAverage execution time for 10,000 cars over 30 runs: %.6f seconds\n", avg_time);
+    printf("\nAverage execution time for 100,000 cars over 30 runs: %.10f seconds\n", avg_time);
 
     free(input_matrix);
     free(output_accel);
