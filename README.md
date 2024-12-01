@@ -62,7 +62,7 @@ Ensure that Visual Studio Community 2022 is set up, and you have access to **gcc
 ### Usage
 
 1. **Compile the Program**:
-   - Compile the `main.c` file and the `asmfunc.asm` file using Visual Studio Community 2022.
+   - Compile the `main.c` file and the `asmfunc.asm` file using Visual Studio Community 2022 found in the Required folder.
 
 2. **Run the Program**:
    - The program will first ask for the number of cars.
