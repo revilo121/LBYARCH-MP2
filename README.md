@@ -3,6 +3,9 @@
 **Authors**:  
 Karl Andrei L. Ordinario and Oliver Aldrin H. Arucan
 
+## Short Video
+https://drive.google.com/drive/folders/1dwq0re2ebsySPA5ayu7T8Oq4B1D1tdaP?usp=drive_link
+
 ## Project Overview
 
 This project calculates the acceleration of cars based on user-provided initial velocity, final velocity, and the time taken for each car to travel a given distance. The program is implemented in C while using an external function written in x86-64 assembly to perform the calculations.
