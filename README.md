@@ -4,7 +4,7 @@
 Karl Andrei L. Ordinario and Oliver Aldrin H. Arucan
 
 ## Short Video
-https://drive.google.com/drive/folders/1dwq0re2ebsySPA5ayu7T8Oq4B1D1tdaP?usp=drive_link
+[Watch the demo video](https://drive.google.com/uc?id=FILE_ID&export=download)
 
 ## Project Overview
 
